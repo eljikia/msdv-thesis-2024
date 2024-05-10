@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Manhattan",
+                "vacancy_before": 8.30,
+                "vacancy_after": 14.20
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brooklyn",
+                "vacancy_before": 7.31,
+                "vacancy_after": 14.89
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bronx",
+                "vacancy_before": 6.66,
+                "vacancy_after": 8.15
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queens",
+                "vacancy_before": 0.52,
+                "vacancy_after": 3.31
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Staten Island",
+                "vacancy_before": 3.30,
+                "vacancy_after": 6.90
+            }
+        }
+    ]
+}
